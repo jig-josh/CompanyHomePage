@@ -21,3 +21,18 @@ h1 {
     display: inline-block;
     padding: 15px;
 }
+
+.about-container {
+    display: flex;
+    height: 350px;
+    background-image: url("./resources/images/Allveggies.jpg");
+}
+
+.slogan {
+    margin: auto;
+    background-color: black;
+    width: 100%;
+    opacity: .8;
+    text-align: center;
+    color: white;
+}
