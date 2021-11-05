@@ -65,3 +65,33 @@ h1 {
 figcaption {
     font-weight: bold;
 }
+
+.ourteam-container {
+    text-align: center;
+}
+
+.Ourteam {
+    background-image: url("./resources/images/bockchoy.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    opacity: .8;
+}
+
+.member-detail {
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.member-detail img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    padding: 50px;
+    width: 400px;
+    height: 400px;
+}
