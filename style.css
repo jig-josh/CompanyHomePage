@@ -95,3 +95,9 @@ figcaption {
     width: 400px;
     height: 400px;
 }
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
